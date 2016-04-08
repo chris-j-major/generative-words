@@ -1,0 +1,17 @@
+{
+  "name": "generative-words",
+  "version": "0.0.1",
+  "description": "Library to create generative text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Chris Major",
+  "license": "MIT",
+  "dependencies": {
+    "generative-core": "^0.0.1"
+  },
+  "devDependencies":{
+    "mocha": "^2.4.5"
+  }
+}
